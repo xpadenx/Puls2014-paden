@@ -5,6 +5,7 @@ Hosting barato normal --> /public_html/ <-- FTP
 	images
 	leonidas.jpg
 www.fuckencio.com
+www.picsgood.com
 
 SISTEMA DE CONTROL DE VERSIONES 
 
